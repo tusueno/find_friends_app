@@ -1,7 +1,7 @@
 streamlit
 pandas
 plotly
-pycaret
+pycaret==3.3.2
 scikit-learn
 lightgbm
 numpy

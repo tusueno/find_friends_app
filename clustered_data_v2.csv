@@ -1,0 +1,230 @@
+age,edu_level,fav_animals,fav_place,gender,Cluster
+<18,Podstawowe,Brak ulubionych,,Kobieta,Cluster 4
+25-34,Średnie,Psy,Nad wodą,Mężczyzna,Cluster 1
+45-54,Wyższe,Psy,W lesie,Mężczyzna,Cluster 2
+35-44,Średnie,Koty,W górach,Mężczyzna,Cluster 1
+35-44,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+25-34,Wyższe,Psy,W lesie,Mężczyzna,Cluster 2
+25-34,Wyższe,Koty,W górach,Mężczyzna,Cluster 6
+25-34,Wyższe,Brak ulubionych,W górach,Mężczyzna,Cluster 5
+45-54,Wyższe,Psy,W górach,Kobieta,Cluster 0
+18-24,Średnie,Koty,W górach,Mężczyzna,Cluster 1
+35-44,Wyższe,Brak ulubionych,W górach,Mężczyzna,Cluster 5
+25-34,Wyższe,Psy,W lesie,Kobieta,Cluster 2
+35-44,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+35-44,Średnie,Inne,W górach,Mężczyzna,Cluster 1
+45-54,Wyższe,Inne,Nad wodą,Mężczyzna,Cluster 0
+35-44,Średnie,Koty,Nad wodą,Mężczyzna,Cluster 1
+>=65,Wyższe,Brak ulubionych,,Mężczyzna,Cluster 5
+45-54,Wyższe,Psy,W górach,Mężczyzna,Cluster 0
+35-44,Wyższe,Koty,,Mężczyzna,Cluster 6
+45-54,Wyższe,Koty i Psy,Nad wodą,Kobieta,Cluster 3
+35-44,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+>=65,Wyższe,Brak ulubionych,W lesie,Kobieta,Cluster 5
+35-44,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+35-44,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+45-54,Średnie,Psy,Nad wodą,Mężczyzna,Cluster 1
+45-54,Wyższe,Psy,W lesie,Mężczyzna,Cluster 2
+35-44,Wyższe,Koty,W górach,Mężczyzna,Cluster 6
+35-44,Wyższe,Koty,W górach,Mężczyzna,Cluster 6
+25-34,Wyższe,Koty,W górach,Kobieta,Cluster 6
+25-34,Wyższe,Koty,W górach,Mężczyzna,Cluster 6
+55-64,Wyższe,Inne,,Mężczyzna,Cluster 7
+35-44,Średnie,Psy,Nad wodą,Kobieta,Cluster 1
+35-44,Wyższe,Koty,Nad wodą,Mężczyzna,Cluster 6
+25-34,Średnie,Inne,Inne,Mężczyzna,Cluster 1
+45-54,Średnie,Koty,Inne,Mężczyzna,Cluster 1
+25-34,Średnie,Psy,Nad wodą,Mężczyzna,Cluster 1
+25-34,Średnie,Inne,W górach,Mężczyzna,Cluster 1
+35-44,Wyższe,Brak ulubionych,Nad wodą,Mężczyzna,Cluster 5
+45-54,Średnie,Psy,W górach,Mężczyzna,Cluster 1
+25-34,Wyższe,Psy,W górach,Mężczyzna,Cluster 2
+45-54,Wyższe,Koty,W lesie,Mężczyzna,Cluster 6
+35-44,Wyższe,Psy,W górach,,Cluster 0
+35-44,Wyższe,Brak ulubionych,W lesie,Mężczyzna,Cluster 5
+35-44,Średnie,Psy,Nad wodą,Kobieta,Cluster 1
+45-54,Wyższe,Psy,Nad wodą,Kobieta,Cluster 0
+45-54,Średnie,Psy,Nad wodą,Mężczyzna,Cluster 1
+35-44,Wyższe,Inne,W górach,Mężczyzna,Cluster 6
+45-54,Wyższe,Psy,Nad wodą,Kobieta,Cluster 0
+unknown,Wyższe,Brak ulubionych,,,Cluster 5
+>=65,Wyższe,Brak ulubionych,W górach,Kobieta,Cluster 5
+45-54,Wyższe,Brak ulubionych,W górach,Kobieta,Cluster 5
+45-54,Wyższe,Inne,W lesie,Kobieta,Cluster 2
+25-34,Wyższe,Psy,Inne,Kobieta,Cluster 2
+18-24,Wyższe,Brak ulubionych,W górach,Mężczyzna,Cluster 5
+35-44,Wyższe,Psy,W lesie,Mężczyzna,Cluster 0
+25-34,Średnie,Koty,W lesie,Mężczyzna,Cluster 1
+55-64,Wyższe,Psy,W górach,Mężczyzna,Cluster 7
+35-44,Wyższe,Psy,W górach,Mężczyzna,Cluster 0
+35-44,Wyższe,Psy,W lesie,Mężczyzna,Cluster 0
+35-44,Wyższe,Inne,Nad wodą,Mężczyzna,Cluster 0
+45-54,Wyższe,Psy,W górach,Mężczyzna,Cluster 0
+35-44,Wyższe,Inne,Nad wodą,Mężczyzna,Cluster 0
+35-44,Średnie,Brak ulubionych,,Kobieta,Cluster 5
+35-44,Wyższe,Koty i Psy,W górach,Kobieta,Cluster 3
+35-44,Wyższe,Koty,W górach,Mężczyzna,Cluster 6
+>=65,Wyższe,Brak ulubionych,W górach,Mężczyzna,Cluster 5
+45-54,Wyższe,Inne,Inne,Mężczyzna,Cluster 0
+45-54,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+35-44,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+25-34,Wyższe,Psy,Nad wodą,Kobieta,Cluster 2
+35-44,Wyższe,Inne,Nad wodą,Kobieta,Cluster 0
+55-64,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 7
+55-64,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 7
+45-54,Wyższe,Koty i Psy,,Mężczyzna,Cluster 3
+35-44,Wyższe,Psy,W górach,Mężczyzna,Cluster 0
+35-44,Wyższe,Psy,W lesie,Kobieta,Cluster 0
+55-64,Wyższe,Koty i Psy,Nad wodą,Mężczyzna,Cluster 3
+35-44,Wyższe,Psy,,Kobieta,Cluster 0
+25-34,Wyższe,Psy,W lesie,Kobieta,Cluster 2
+35-44,Wyższe,Psy,,Mężczyzna,Cluster 0
+25-34,Wyższe,Inne,W górach,Mężczyzna,Cluster 2
+55-64,Wyższe,Psy,,Mężczyzna,Cluster 7
+18-24,Średnie,Psy,W górach,Mężczyzna,Cluster 1
+35-44,Wyższe,Psy,Nad wodą,Kobieta,Cluster 0
+45-54,Wyższe,Psy,,Mężczyzna,Cluster 0
+35-44,Wyższe,Inne,Inne,Kobieta,Cluster 0
+45-54,Wyższe,Psy,Nad wodą,Kobieta,Cluster 0
+35-44,Wyższe,Brak ulubionych,W górach,Mężczyzna,Cluster 5
+45-54,Średnie,Psy,W górach,Mężczyzna,Cluster 1
+25-34,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 2
+35-44,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+25-34,Wyższe,Inne,W lesie,Mężczyzna,Cluster 2
+25-34,Średnie,Psy,W górach,Mężczyzna,Cluster 1
+45-54,Średnie,Inne,W lesie,Mężczyzna,Cluster 1
+unknown,Wyższe,Psy,Nad wodą,Kobieta,Cluster 0
+35-44,Wyższe,Psy,W lesie,Mężczyzna,Cluster 0
+45-54,Wyższe,Psy,W lesie,Mężczyzna,Cluster 2
+55-64,Wyższe,Psy,W lesie,Mężczyzna,Cluster 7
+35-44,Średnie,Psy,W lesie,Kobieta,Cluster 1
+35-44,Wyższe,Psy,,Mężczyzna,Cluster 0
+35-44,Wyższe,Psy,Nad wodą,Kobieta,Cluster 0
+35-44,Wyższe,Brak ulubionych,Nad wodą,Mężczyzna,Cluster 5
+35-44,Wyższe,Brak ulubionych,,Mężczyzna,Cluster 5
+45-54,Średnie,Inne,Inne,Mężczyzna,Cluster 1
+45-54,Średnie,Brak ulubionych,W górach,Mężczyzna,Cluster 1
+55-64,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 7
+35-44,Średnie,Psy,W górach,Mężczyzna,Cluster 1
+35-44,Wyższe,Koty,W górach,Kobieta,Cluster 6
+45-54,Wyższe,Psy,Nad wodą,Kobieta,Cluster 0
+25-34,Średnie,Koty,W lesie,Mężczyzna,Cluster 1
+45-54,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+45-54,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+35-44,Wyższe,Koty,W górach,Mężczyzna,Cluster 6
+45-54,Wyższe,Psy,Inne,Mężczyzna,Cluster 0
+45-54,Wyższe,Psy,W lesie,Mężczyzna,Cluster 2
+25-34,Wyższe,Koty,,Mężczyzna,Cluster 6
+45-54,Wyższe,Brak ulubionych,Nad wodą,Mężczyzna,Cluster 5
+45-54,Wyższe,Inne,W lesie,Mężczyzna,Cluster 2
+45-54,Wyższe,Psy,W lesie,Mężczyzna,Cluster 2
+25-34,Wyższe,Psy,W górach,Mężczyzna,Cluster 2
+45-54,Średnie,Inne,W górach,Mężczyzna,Cluster 1
+18-24,Średnie,Psy,Nad wodą,Mężczyzna,Cluster 1
+35-44,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+45-54,Wyższe,Psy,W lesie,Mężczyzna,Cluster 2
+>=65,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+35-44,Wyższe,Koty,W górach,Mężczyzna,Cluster 6
+35-44,Wyższe,Psy,Inne,Mężczyzna,Cluster 0
+45-54,Wyższe,Psy,,Kobieta,Cluster 0
+45-54,Wyższe,Inne,Nad wodą,Mężczyzna,Cluster 0
+35-44,Wyższe,Brak ulubionych,W lesie,Mężczyzna,Cluster 5
+18-24,Średnie,Psy,W górach,Mężczyzna,Cluster 1
+35-44,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+45-54,Wyższe,Koty,W lesie,Mężczyzna,Cluster 6
+35-44,Wyższe,Inne,W górach,Mężczyzna,Cluster 6
+55-64,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 7
+35-44,Wyższe,Koty,W górach,Mężczyzna,Cluster 6
+35-44,Wyższe,Psy,W górach,Mężczyzna,Cluster 0
+45-54,Wyższe,Psy,W lesie,Kobieta,Cluster 2
+35-44,Wyższe,Psy,Nad wodą,Kobieta,Cluster 0
+18-24,Średnie,Inne,W górach,Mężczyzna,Cluster 1
+45-54,Średnie,Koty,W lesie,Mężczyzna,Cluster 1
+25-34,Wyższe,Psy,,Mężczyzna,Cluster 2
+45-54,Wyższe,Inne,W górach,Mężczyzna,Cluster 6
+35-44,Średnie,Koty,W górach,Mężczyzna,Cluster 1
+45-54,Wyższe,Psy,W lesie,Kobieta,Cluster 2
+45-54,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+25-34,Wyższe,Psy,W lesie,Mężczyzna,Cluster 2
+25-34,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 2
+45-54,Wyższe,Koty,,Mężczyzna,Cluster 6
+35-44,Wyższe,Brak ulubionych,Nad wodą,Kobieta,Cluster 5
+35-44,Średnie,Psy,W lesie,Mężczyzna,Cluster 1
+35-44,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+45-54,Wyższe,Inne,W górach,Mężczyzna,Cluster 6
+25-34,Wyższe,Koty,,Mężczyzna,Cluster 6
+25-34,Wyższe,Psy,Nad wodą,Kobieta,Cluster 2
+25-34,Średnie,Psy,W górach,Mężczyzna,Cluster 1
+55-64,Wyższe,Inne,,Mężczyzna,Cluster 7
+55-64,Wyższe,Koty,Nad wodą,Mężczyzna,Cluster 7
+35-44,Wyższe,Koty i Psy,W górach,Kobieta,Cluster 3
+35-44,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+25-34,Wyższe,Psy,W górach,Kobieta,Cluster 2
+45-54,Wyższe,Brak ulubionych,W lesie,Mężczyzna,Cluster 5
+18-24,Średnie,Koty,W górach,Kobieta,Cluster 1
+25-34,Wyższe,Psy,W górach,Mężczyzna,Cluster 2
+35-44,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+25-34,Średnie,Koty,,Mężczyzna,Cluster 1
+25-34,Wyższe,Psy,W górach,Kobieta,Cluster 2
+35-44,Wyższe,Psy,W górach,Mężczyzna,Cluster 0
+45-54,Wyższe,Koty,W lesie,Kobieta,Cluster 6
+35-44,Wyższe,Psy,W górach,Kobieta,Cluster 0
+25-34,Średnie,Brak ulubionych,W górach,Kobieta,Cluster 1
+45-54,Wyższe,Koty,W lesie,Mężczyzna,Cluster 6
+35-44,Wyższe,Psy,W górach,Mężczyzna,Cluster 0
+35-44,Wyższe,Psy,Nad wodą,Kobieta,Cluster 0
+18-24,Średnie,Koty,W lesie,Mężczyzna,Cluster 1
+55-64,Wyższe,Psy,W lesie,Mężczyzna,Cluster 7
+45-54,Wyższe,Psy,W górach,Mężczyzna,Cluster 0
+45-54,Wyższe,Psy,W górach,Mężczyzna,Cluster 0
+45-54,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+55-64,Wyższe,Brak ulubionych,W lesie,Kobieta,Cluster 7
+35-44,Średnie,Inne,Nad wodą,Mężczyzna,Cluster 1
+35-44,Wyższe,Psy,W górach,Mężczyzna,Cluster 0
+35-44,Wyższe,Inne,W górach,Mężczyzna,Cluster 6
+25-34,Wyższe,Inne,W lesie,Mężczyzna,Cluster 2
+45-54,Średnie,Koty,,Kobieta,Cluster 1
+45-54,Wyższe,Koty,W górach,Mężczyzna,Cluster 6
+25-34,Wyższe,Psy,W lesie,Mężczyzna,Cluster 2
+45-54,Wyższe,Koty,,Kobieta,Cluster 6
+18-24,Wyższe,Inne,,Mężczyzna,Cluster 0
+45-54,Wyższe,Psy,,Mężczyzna,Cluster 0
+35-44,Średnie,Psy,Nad wodą,Mężczyzna,Cluster 1
+35-44,Wyższe,Psy,W górach,Mężczyzna,Cluster 0
+35-44,Wyższe,Inne,Nad wodą,Kobieta,Cluster 0
+45-54,Wyższe,Koty,Nad wodą,Mężczyzna,Cluster 6
+35-44,Wyższe,Psy,W górach,Kobieta,Cluster 0
+35-44,Wyższe,Psy,W lesie,Mężczyzna,Cluster 0
+55-64,Wyższe,Koty,W lesie,Mężczyzna,Cluster 7
+>=65,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+35-44,Wyższe,Koty,Nad wodą,Kobieta,Cluster 6
+35-44,Wyższe,Psy,,Mężczyzna,Cluster 0
+35-44,Wyższe,Psy,W lesie,Mężczyzna,Cluster 0
+45-54,Wyższe,Psy,W górach,Mężczyzna,Cluster 0
+18-24,Średnie,Psy,Nad wodą,Mężczyzna,Cluster 1
+45-54,Średnie,Psy,Nad wodą,Mężczyzna,Cluster 1
+35-44,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+45-54,Średnie,Brak ulubionych,W górach,Mężczyzna,Cluster 1
+>=65,Średnie,Psy,,Mężczyzna,Cluster 1
+45-54,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+45-54,Wyższe,Psy,W górach,Mężczyzna,Cluster 0
+35-44,Wyższe,Brak ulubionych,Nad wodą,Mężczyzna,Cluster 5
+45-54,Wyższe,Psy,W lesie,Mężczyzna,Cluster 2
+45-54,Wyższe,Psy,,Kobieta,Cluster 0
+45-54,Wyższe,Koty i Psy,Nad wodą,Mężczyzna,Cluster 3
+45-54,Wyższe,Koty,W górach,Mężczyzna,Cluster 6
+45-54,Wyższe,Psy,W lesie,Mężczyzna,Cluster 2
+45-54,Wyższe,Psy,Nad wodą,Kobieta,Cluster 0
+35-44,Wyższe,Psy,Nad wodą,Mężczyzna,Cluster 0
+45-54,Wyższe,Inne,Nad wodą,Kobieta,Cluster 0
+45-54,Wyższe,Psy,W górach,Mężczyzna,Cluster 0
+55-64,Wyższe,Inne,,Mężczyzna,Cluster 7
+45-54,Wyższe,Psy,W górach,Kobieta,Cluster 0
+25-34,Wyższe,Koty,Nad wodą,Mężczyzna,Cluster 6
+45-54,Wyższe,Psy,W górach,Kobieta,Cluster 0
+35-44,Wyższe,Inne,,Kobieta,Cluster 0
+35-44,Wyższe,Koty,Inne,Kobieta,Cluster 6
+45-54,Wyższe,Inne,W lesie,Mężczyzna,Cluster 2
+25-34,Wyższe,Psy,W górach,Mężczyzna,Cluster 2
+35-44,Wyższe,Brak ulubionych,W górach,Mężczyzna,Cluster 5
+45-54,Wyższe,Koty,Nad wodą,Mężczyzna,Cluster 6

@@ -1,7 +1,6 @@
 streamlit
 pandas
 plotly
-pycaret
 scikit-learn
 lightgbm
 numpy

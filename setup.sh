@@ -1,1 +1,1 @@
-pip install pycaret[full]
+pip install pycaret[full]==2.3.10

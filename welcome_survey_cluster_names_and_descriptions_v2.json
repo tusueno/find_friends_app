@@ -1,0 +1,34 @@
+{
+  "Cluster 0": {
+    "name": "Profesjonaliści Nad Wodą",
+    "description": "W tym klastrze znajdują się osoby z wyższym wykształceniem, które preferują spędzanie czasu nad wodą. Większość z nich to mężczyźni w wieku 35-44 lat, a ich ulubionymi zwierzętami są psy."
+  },
+  "Cluster 1": {
+    "name": "Miłośnicy Gór ze Średnim Wykształceniem",
+    "description": "W tym klastrze znajdują się osoby z wykształceniem średnim, które preferują spędzanie czasu w górach. Większość z nich to mężczyźni w wieku 45-54 lat, a ich ulubionymi zwierzętami są psy."
+  },
+  "Cluster 2": {
+    "name": "Leśni Entuzjaści",
+    "description": "W tym klastrze znajdują się osoby, które preferują spędzanie czasu w lesie i mają wyższe wykształcenie. Większość z nich to mężczyźni w wieku 25-34 lat, a ich ulubionymi zwierzętami są psy."
+  },
+  "Cluster 3": {
+    "name": "Kobiety Nad Wodą z Kotami i Psami",
+    "description": "W tym klastrze znajdują się kobiety z wyższym wykształceniem, które preferują spędzanie czasu nad wodą. Większość z nich to osoby w wieku 45-54 lat, a ich ulubionymi zwierzętami są koty i psy."
+  },
+  "Cluster 4": {
+    "name": "Najmłodsze Uczestniczki",
+    "description": "W tym klastrze znajduje się najmłodsza osoba z podstawowym wykształceniem, która nie ma ulubionych zwierząt. To klaster jednoosobowy – kobieta poniżej 18 roku życia."
+  },
+  "Cluster 5": {
+    "name": "Wykształceni Górscy Introwertycy",
+    "description": "W tym klastrze znajdują się osoby z wyższym wykształceniem, które preferują spędzanie czasu w górach. Większość z nich to mężczyźni w wieku 35-44 lat, którzy nie mają ulubionych zwierząt."
+  },
+  "Cluster 6": {
+    "name": "Kociarze z Gór",
+    "description": "W tym klastrze znajdują się osoby z wyższym wykształceniem, które preferują spędzanie czasu w górach. Większość z nich to mężczyźni w wieku 35-44 lat, a ich ulubionymi zwierzętami są koty."
+  },
+  "Cluster 7": {
+    "name": "Starszyzna Nad Wodą",
+    "description": "W tym klastrze znajdują się osoby z wyższym wykształceniem, które preferują spędzanie czasu nad wodą. Większość z nich to mężczyźni w wieku 55-64 lat, a ich ulubionymi zwierzętami są psy."
+  }
+}
